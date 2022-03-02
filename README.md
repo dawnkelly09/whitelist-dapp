@@ -1,3 +1,6 @@
+Dapp to collect whitelist addresses built from Learn Web3 DAO Sophomore track tutorial here: <br>
+**TO DO: Get link for project page**
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
